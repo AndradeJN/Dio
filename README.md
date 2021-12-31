@@ -1,3 +1,3 @@
-# Dio
-#### Repositório de estudos na plataforma Dio
-[Conheça a plataforma DIO](https://web.dio.me/home)
+# Repositório DIO
+#### Repositório projetos e aprendizados adiquiridos junto à comunidade. 
+[Conheça a DIO](https://web.dio.me/home)
